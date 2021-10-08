@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
+* {
+  color: cornflowerblue;
+}
+.App {
+  font-family: "Reenie Beanie";
+  background-color: bisque;
+  color: coral;
+  padding: 50px;
+  margin: 50px;
+}
